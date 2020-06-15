@@ -1,0 +1,8 @@
+2020-06-15 17:23:21,720 - connectionpool.py[line:937] - DEBUG: Starting new HTTPS connection (1): pan.baidu.com:443
+2020-06-15 17:23:21,978 - connectionpool.py[line:433] - DEBUG: https://pan.baidu.com:443 "GET /share/init?surl=WgS9x7aJ881YlhqxN2os-w HTTP/1.1" 200 None
+2020-06-15 17:23:22,445 - connectionpool.py[line:433] - DEBUG: https://pan.baidu.com:443 "POST /share/verify?surl=WgS9x7aJ881YlhqxN2os-w&t=1592213001715&channel=chunlei&web=1&app_id=250528&bdstoken=d3f64422ac46176f3a18f8d4f622433dd&logid=MTU5MjIxMzAwMjIwMTAuMjU5ODc3NDY1MTg4MjQ3Ng==&clienttype=0 HTTP/1.1" 200 132
+2020-06-15 17:23:22,836 - connectionpool.py[line:433] - DEBUG: https://pan.baidu.com:443 "GET /s/1WgS9x7aJ881YlhqxN2os-w HTTP/1.1" 200 None
+2020-06-15 17:23:23,106 - connectionpool.py[line:937] - DEBUG: Starting new HTTPS connection (1): pan.baidu.com:443
+2020-06-15 17:23:23,502 - connectionpool.py[line:433] - DEBUG: https://pan.baidu.com:443 "POST /api/create?a=commit&channel=chunlei&app_id=250528&bdstoken=undefined&channel=chunlei&web=1&app_id=250528&bdstoken=d3f64422ac46176f3a18f8d4f622433d&logid=MTU5MjIxMzAwMzA4OTAuMTc3MzA2NzAxMTI3MzY3MDc=&clienttype=0 HTTP/1.1" 200 139
+2020-06-15 17:23:23,510 - connectionpool.py[line:937] - DEBUG: Starting new HTTPS connection (1): pan.baidu.com:443
+2020-06-15 17:23:23,985 - connectionpool.py[line:433] - DEBUG: https://pan.baidu.com:443 "POST /share/transfer?shareid=655231787&from=1455077217&ondup=newcopy&async=1&channel=chunlei&web=1&app_id=250528&bdstoken=d3f64422ac46176f3a18f8d4f622433d&logid=MTU5MjIxMzAwMzA4OTAuMTc3MzA2NzAxMTI3MzY3MDc=&clienttype=0 HTTP/1.1" 200 188
